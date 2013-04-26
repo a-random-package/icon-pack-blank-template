@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Theme properties -->
+<bool name="enableIconPack">true</bool>
+<bool name="enableDockPack">false</bool>
+</resources>
