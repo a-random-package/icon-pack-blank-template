@@ -7,7 +7,7 @@ Thanks to Sammycakes for code from the appfilter, bagarwa for the help with ADW 
 
 As always if you are new to theming follow this tutorial http://forum.xda-developers.com/showthread.php?t=1649891 to get started.
 
-Once you are ready open the IconPack.java file and add your details to the top.
+Once you are ready open the IconPack.java file found in src/com/yourname/themename and add your details to the top.
 
 Then open res/values/strings and fill in your info. The ADW Strings are for the icon picker activity. The hello string can be used as a description or a message to the user.
 
