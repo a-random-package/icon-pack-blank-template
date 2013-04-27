@@ -17,4 +17,4 @@ ADW Github: https://github.com/AnderWeb/ADW.Theme-Template
 
 I made a video for designers just getting started with icon packs. Can be found here: http://www.arandompackage.com/2013/04/tweak-apex-theme-sample-for-ultimate.html
 
-For ADW Launcher. Wallpapers need to be placed inside res/drawable and named theme_wallpaper. Same goes for screenshots/previews. Name them theme_preview
+
