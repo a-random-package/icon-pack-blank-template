@@ -17,3 +17,4 @@ ADW Github: https://github.com/AnderWeb/ADW.Theme-Template
 
 I made a video for designers just getting started with icon packs. Can be found here: http://www.arandompackage.com/2013/04/tweak-apex-theme-sample-for-ultimate.html
 
+Going through the ADW theme handbook today. Will update the template later
