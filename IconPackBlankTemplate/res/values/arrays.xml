@@ -816,5 +816,9 @@
     </string-array>
 	
 	
+	<!--ADW Dock Pack-->
+	
+	<string-array name="dock_pack" translatable="false">
+    </string-array>
     
 </resources>
