@@ -4,7 +4,7 @@
 <bool name="enableIconPack">true</bool>
 <bool name="enableDockPack">false</bool>
 
-
+<!-- ADW Description-->
 <string name="authorName">Your real name/nickname</string>
 <string name="developerName">Your android market developer name</string>
 <string name="authorLink">http://your.web.site</string>
