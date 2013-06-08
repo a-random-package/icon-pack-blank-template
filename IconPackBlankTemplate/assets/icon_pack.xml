@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 		<string-array name="icon_pack" translatable="true">
-<item>quadrant</item>
-<item>crackle</item>
-<item>googlebooks</item>
-<item>popup</item>
-<item>smsblocker</item>
-<item>translatre</item>
-<item>mdfive</item>
-<item>subway</item>
-<item>sprinttools</item>	
-<item>eossettings</item>
-<item>komik</item>
-<item>keep</item>
-<item>kobo</item>
-<item>ancestry</item>		
 <item>accuweather</item>
-<item>mobisle</item>
-<item>phonemypc</item>
-<item>twitchtv</item>
 <item>activate</item>
 <item>activate</item>
 <item>adaway</item>
@@ -53,6 +36,7 @@
 <item>ambiescienceps</item>
 <item>amblingbooks</item>
 <item>amex</item>
+<item>ancestry</item>
 <item>androidmusic</item>
 <item>androidprowidgets</item>
 <item>androzip</item>
@@ -172,10 +156,10 @@
 <item>chrometophone</item>
 <item>citguide</item>
 <item>clearvision</item>
-<item>clock</item>
 <item>clock1</item>
 <item>clock2</item>
 <item>clock3</item>
+<item>clock</item>
 <item>clocksync</item>
 <item>cnn</item>
 <item>codelite</item>
@@ -191,6 +175,7 @@
 <item>cooltool</item>
 <item>cordy</item>
 <item>cpuspy</item>
+<item>crackle</item>
 <item>craigslist</item>
 <item>criticalstrike</item>
 <item>cures</item>
@@ -241,6 +226,7 @@
 <item>emulator</item>
 <item>endomodo</item>
 <item>engadget</item>
+<item>eossettings</item>
 <item>esfileexplorer</item>
 <item>espn</item>
 <item>estaskmanager</item>
@@ -249,8 +235,8 @@
 <item>eurosport</item>
 <item>eventbrite</item>
 <item>evernote</item>
-<item>exdialer</item>
 <item>exdialer2</item>
+<item>exdialer</item>
 <item>expedia</item>
 <item>extweaks</item>
 <item>ezpdf</item>
@@ -317,13 +303,13 @@
 <item>goo</item>
 <item>googleauthenticator</item>
 <item>googlebooks</item>
+<item>googlebooks</item>
 <item>googlecurrents</item>
 <item>googledrive</item>
 <item>googleearth</item>
 <item>googlefinance</item>
 <item>googlegoggles</item>
 <item>googlemaps</item>
-<item>gplus</item>
 <item>googlepluschat</item>
 <item>googlesearch</item>
 <item>googleskymap</item>
@@ -334,6 +320,7 @@
 <item>gospellibrary</item>
 <item>gotaskmanager</item>
 <item>goweather</item>
+<item>gplus</item>
 <item>gpsstatus</item>
 <item>grannysmith</item>
 <item>greader</item>
@@ -379,6 +366,7 @@
 <item>justwink</item>
 <item>k9mail</item>
 <item>keek</item>
+<item>keep</item>
 <item>kicktheboss2</item>
 <item>kicktheboss</item>
 <item>kidsmode2</item>
@@ -388,6 +376,8 @@
 <item>kindle</item>
 <item>kingsoft</item>
 <item>klip</item>
+<item>kobo</item>
+<item>komik</item>
 <item>lastfm</item>
 <item>launcherpro</item>
 <item>ldshymns</item>
@@ -415,6 +405,7 @@
 <item>marvel</item>
 <item>maxathon</item>
 <item>maxpayne</item>
+<item>mdfive</item>
 <item>mediahouse</item>
 <item>mediahub</item>
 <item>melodrone</item>
@@ -435,6 +426,7 @@
 <item>mixcloud</item>
 <item>mobilecoupons</item>
 <item>mobilehotspot</item>
+<item>mobisle</item>
 <item>moboplayer</item>
 <item>moderncombat3</item>
 <item>monopoly</item>
@@ -494,15 +486,16 @@
 <item>operamini</item>
 <item>optitrans</item>
 <item>osmoshd</item>
+<item>pageonce</item>
 <item>pandora</item>
 <item>papercamera</item>
-<item>pageonce</item>
 <item>pattrn</item>
 <item>paypal</item>
 <item>pedometer</item>
 <item>performancecontrol</item>
 <item>phone</item>
 <item>phonebook</item>
+<item>phonemypc</item>
 <item>photobucket</item>
 <item>photoeditor2</item>
 <item>photoeditor</item>
@@ -531,8 +524,6 @@
 <item>playmagazines</item>
 <item>playmovies</item>
 <item>playmusic</item>
-<item>scope</item>
-<item>supersu</item>
 <item>playstore</item>
 <item>plume</item>
 <item>pocket</item>
@@ -540,6 +531,7 @@
 <item>pocketgod</item>
 <item>podcast</item>
 <item>pokerstars</item>
+<item>popup</item>
 <item>poweramp</item>
 <item>powertoggles</item>
 <item>poynt</item>
@@ -551,6 +543,7 @@
 <item>pulse</item>
 <item>qrbarcodescanner</item>
 <item>qrdroid</item>
+<item>quadrant</item>
 <item>quickeven</item>
 <item>quickpic</item>
 <item>quickprofiles</item>
@@ -569,8 +562,8 @@
 <item>recovery</item>
 <item>redbox</item>
 <item>redditisfun</item>
-<item>redditnow</item>
 <item>redditnews</item>
+<item>redditnow</item>
 <item>redditsync</item>
 <item>remotemouse</item>
 <item>retrocamera</item>
@@ -589,6 +582,7 @@
 <item>ruzzle</item>
 <item>samurai2</item>
 <item>scarface</item>
+<item>scope</item>
 <item>scoremobile</item>
 <item>screen</item>
 <item>screencast</item>
@@ -633,6 +627,7 @@
 <item>sms</item>
 <item>smsbackup</item>
 <item>smsbackuprestore</item>
+<item>smsblocker</item>
 <item>snapchat</item>
 <item>snapseed</item>
 <item>snowstorm</item>
@@ -651,6 +646,7 @@
 <item>spotimote</item>
 <item>springpad</item>
 <item>sprinkle</item>
+<item>sprinttools</item>
 <item>ssuggest</item>
 <item>starbucks</item>
 <item>steam</item>
@@ -659,8 +655,10 @@
 <item>stupidzombies2</item>
 <item>stupidzombies</item>
 <item>subway</item>
+<item>subway</item>
 <item>subwaysurfers</item>
 <item>superstatusbar</item>
+<item>supersu</item>
 <item>superuser</item>
 <item>svoice</item>
 <item>svox</item>
@@ -698,6 +696,7 @@
 <item>towerdefense</item>
 <item>townsmen</item>
 <item>transformers</item>
+<item>translatre</item>
 <item>trickstermod</item>
 <item>trillian</item>
 <item>trinitykernel</item>
@@ -713,6 +712,7 @@
 <item>tweetdark</item>
 <item>tweetdeck</item>
 <item>tweetings</item>
+<item>twitchtv</item>
 <item>twitter</item>
 <item>twogis</item>
 <item>ubermusic</item>
@@ -763,12 +763,12 @@
 <item>wheresmyperry</item>
 <item>wheresmywater</item>
 <item>whobecomesrich</item>
-<item>wiki</item>
 <item>widgetlocker</item>
 <item>wifianalyzer</item>
 <item>wificalling</item>
 <item>wifiexplorer</item>
 <item>wifimouse</item>
+<item>wiki</item>
 <item>wikipedia</item>
 <item>winamp</item>
 <item>windupknight</item>
