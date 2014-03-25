@@ -15,6 +15,6 @@ Want to add a dock pack for ADW? Open res/values/theme_config and change <bool n
 
 ADW Github: https://github.com/AnderWeb/ADW.Theme-Template
 
-I made a video for designers just getting started with icon packs. Can be found here: http://www.arandompackage.com/2013/04/tweak-apex-theme-sample-for-ultimate.html
+I made a video for designers just getting started with icon packs. Can be found here: http://www.arandompackage.blogspot.com/2013/04/tweak-apex-theme-sample-for-ultimate.html
 
 
